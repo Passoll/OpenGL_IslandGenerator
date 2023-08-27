@@ -2,7 +2,8 @@
 
 ### Overview
 
-![Uploading image.png…]()
+
+![image](https://github.com/Passoll/OpenGL_IslandGenerator/assets/25281954/f6ac26ad-e9b2-4fa9-b846-ab73c0f5992d)
 
 
 This project is about controlling a noise function to generate a procedural terrain like world creator(but rather simple one). It support several feature and can be extend.
