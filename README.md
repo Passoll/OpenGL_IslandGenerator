@@ -3,7 +3,7 @@
 ### Overview
 
 
-![image](https://github.com/Passoll/OpenGL_IslandGenerator/assets/25281954/f6ac26ad-e9b2-4fa9-b846-ab73c0f5992d)
+![](https://github.com/Passoll/OpenGL_IslandGenerator/blob/main/picture/GIF%2027-8-2023%203-50-17%20pm.gif)
 
 
 This project is about controlling a noise function to generate a procedural terrain like world creator(but rather simple one). It support several feature and can be extend.
